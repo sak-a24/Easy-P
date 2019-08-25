@@ -1,4 +1,4 @@
-< About >
+< about >
 
 	Easy_P is a tool used for showing a user which PowerShell scripts to use in a penetration test, depending on the users needs. There are 7 different sections of this tool-
 	
